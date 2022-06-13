@@ -67,7 +67,7 @@ body {
 
 @media (max-width: 768px) {
   .section {
-    width: 1000%;
+    width: 100%;
   }
 }
 
@@ -79,3 +79,8 @@ body {
   color: darkslategrey;
 }
 
+.example {
+  border-left: 10%;
+  border-style: dashed;
+  border-color: black;
+}
